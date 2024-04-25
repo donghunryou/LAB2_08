@@ -21,8 +21,10 @@ public:
     }
 };
 
-// Do not modify 
+
 class School {
+private:
+    // Do not modify 
     map<string, Student> students;  // Key: Student ID, Value: Student object
 
 
